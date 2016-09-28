@@ -1,2 +1,2 @@
 # hello-world
-just a teach repository
+实验merge教程
